@@ -1,1 +1,3 @@
-# First-git-project
+# maven-project
+
+Simple Maven Project
